@@ -1,0 +1,23 @@
+{
+  "name": "componentsfxgarneau_pldube",
+  "version": "1.0.0",
+  "description": "demo package nuget fx garneau",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLDubeFormation/demopipeline.git"
+  },
+  "keywords": [
+    "demo",
+    "fxgarneau"
+  ],
+  "author": "Pierre-Luc Dubé",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PLDubeFormation/demopipeline/issues"
+  },
+  "homepage": "https://github.com/PLDubeFormation/demopipeline#readme"
+}
