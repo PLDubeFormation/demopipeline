@@ -15,5 +15,5 @@ jobs:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
       - run: git config --global user.name '${{ secrets.GH_PUBLIC_NAME }}'
       - run: git config --global user.email '${{ secrets.GH_EMAIL }}'
-      - run: npm version patch -m "[RELEASE] %s" --git-tag-version
-      - run: git push
+      - run: npm version patch -m "[RELEASE] %s"
+      - run: git push --tags
