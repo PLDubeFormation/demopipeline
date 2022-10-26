@@ -1,6 +1,6 @@
 {
   "name": "componentsfxgarneau_pldube",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "demo package nuget fx garneau",
   "main": "index.js",
   "scripts": {
